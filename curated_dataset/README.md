@@ -13,7 +13,7 @@ At the end for one dataset you have:
 - → **Gene annotation** (`features.tsv.gz`)  
 - → **Barcode annotation** (`barcodes.tsv.gz`)  
   - Must contain at least:  
-    `barcodes`, `originalBarcodes`, `sampleID`, `publishedClassL1`
+    `barcodes`, `oldSampleID`, `sampleID`, `publishedClassL1`
 
 ---
 

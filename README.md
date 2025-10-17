@@ -1,2 +1,4 @@
 # Public_scRNA
-Cleaned, preprocessed, and curated public scRNA-seq datasets prepared for integrative analyses.
+
+## 📁 scRNA data Curation
+Cleaned, and curated public labels of scRNA-seq public datasets.
